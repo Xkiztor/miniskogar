@@ -4,7 +4,7 @@
 
 
 <template>
-  <div>
+  <div class="page vara-tjanster">
     <h1>Våra tjänster</h1>
     <p>I mån av tid kan vi hjälpa er att förverkliga en miniskog. Och det kan vara i alla delar av processen från
       konceptidéer, platsanalys, formgivning och växtval till växtleverans och även plantering och uppföljande gallring

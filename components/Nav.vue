@@ -7,7 +7,7 @@
   <nav>
     <NuxtLink to="/">Hem</NuxtLink>
     <NuxtLink to="/om-oss">Om oss</NuxtLink>
-    <NuxtLink to="/vara-tjänster">Vara tjänster</NuxtLink>
+    <NuxtLink to="/vara-tjanster">Våra tjänster</NuxtLink>
     <ThemeToggle />
   </nav>
 </template>
@@ -21,6 +21,7 @@ nav {
   padding: 0 1rem;
   gap: 1rem;
   justify-content: flex-start;
+  border-bottom: 1px solid var(--border-color);
 }
 
 .theme-toggle {

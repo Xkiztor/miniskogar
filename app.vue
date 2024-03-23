@@ -132,6 +132,10 @@ button {
   cursor: pointer;
 }
 
+p {
+  font-size: 1.1rem;
+}
+
 h1 {
   font-size: 2.5rem;
   font-weight: 900;
@@ -141,5 +145,10 @@ h1 {
 h2 {
   font-size: 1.75rem;
   font-weight: 600
+}
+
+.page:not(.index):not(.about) {
+  max-width: 60ch;
+  margin: 0 auto;
 }
 </style>
